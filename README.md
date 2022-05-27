@@ -9,3 +9,6 @@ This is a functional proof of concept and is by no means complete.
 Please feedback any improvements / changes you make so it can be shared with everyone. 
 
 If you need physical access to the disks a mechanical jukebox might be a better option - for more info visit us at https://mercia.solutions
+
+For a demo and how to use the script see the below youtube video
+https://youtu.be/Wx3iKdipYNM
